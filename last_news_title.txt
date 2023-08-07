@@ -1,0 +1,3 @@
+const telegramToken = '6261398570:AAEEWtJdnZqAhXnqmfYpe08HGUkrvhkN2Nw';
+const newsApiKey = '0c5ae748f67442659f3ecdb1a7704f2a';
+const channelId = '@uzbek_times_uz';
