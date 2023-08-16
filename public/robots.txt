@@ -1,3 +1,3 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+const TELEGRAM_TOKEN = '6261398570:AAEEWtJdnZqAhXnqmfYpe08HGUkrvhkN2Nw';
+const NEWS_API_KEY = 'pub_2760095c1d2083b3c16281fa9db635f8f6621';
+const CHANNEL_ID = '@uzbek_times_uz';
